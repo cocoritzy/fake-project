@@ -39,7 +39,9 @@ L'analyse des données a été réalisée en plusieurs étapes pour identifier l
 ## 4. Visualisation
 Les résultats de l'analyse et des prévisions ont été visualisés à l'aide de plusieurs outils et techniques pour une meilleure compréhension des tendances et des besoins futurs :
 
-- **Graphiques** : 
+<img width="1252" alt="Capture d’écran 2024-12-20 à 08 41 20" src="https://github.com/user-attachments/assets/63d0d60e-c80d-421c-874c-e070b040c6ba" />
+
+- **Graphiques** :
   - Des graphiques de séries temporelles ont été générés pour illustrer les tendances historiques des niveaux de stock.
   - Des prévisions futures ont été affichées pour visualiser l'impact des tendances sur les besoins futurs en stock.
 
