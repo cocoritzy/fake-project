@@ -1,9 +1,10 @@
 # fake-project
 # Prévision des Stocks avec des Séries Temporelles
 
-## Description du projet
+## Description du projet/ The problem
 Dans ce projet, l'objectif est de prévoir les niveaux de stock d'un produit à partir de données historiques. L'approche utilise des techniques d'analyse de séries temporelles pour prédire les besoins futurs en stock et aider à la gestion de l'approvisionnement.
 
+# How does it work ?
 ## 1. Acquisition de données
 Pour ce projet, les données de stock ont été obtenues à partir de **fichiers Excel** contenant des informations sur les ventes passées. Ces fichiers sont régulièrement mis à jour par l'équipe de gestion des stocks.
 
